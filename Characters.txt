@@ -1,2 +1,4 @@
 Cocodrilo
 Lagartija
+Perro
+Gato
